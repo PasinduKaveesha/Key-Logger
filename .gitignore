@@ -1,5 +1,6 @@
 # Log files
 keylogs.txt
+keylogs_reconstructed.txt
 
 # Generated output
 readable_logs.txt
